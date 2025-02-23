@@ -5,7 +5,7 @@ import os
 st.title("TODOリスト")
 
 # 保存ファイル名
-SAVE_FILE = "todo.pkl"
+SAVE_FILE = "todo.txt"
 
 # データの読み込み
 def load_file():
